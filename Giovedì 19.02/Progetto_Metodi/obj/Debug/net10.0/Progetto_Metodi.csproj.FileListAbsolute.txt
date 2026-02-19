@@ -1,0 +1,15 @@
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 19.02\Progetto_Metodi\bin\Debug\net10.0\Progetto_Metodi.exe
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 19.02\Progetto_Metodi\bin\Debug\net10.0\Progetto_Metodi.deps.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 19.02\Progetto_Metodi\bin\Debug\net10.0\Progetto_Metodi.runtimeconfig.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 19.02\Progetto_Metodi\bin\Debug\net10.0\Progetto_Metodi.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 19.02\Progetto_Metodi\bin\Debug\net10.0\Progetto_Metodi.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 19.02\Progetto_Metodi\obj\Debug\net10.0\Progetto_Metodi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 19.02\Progetto_Metodi\obj\Debug\net10.0\Progetto_Metodi.AssemblyInfoInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 19.02\Progetto_Metodi\obj\Debug\net10.0\Progetto_Metodi.AssemblyInfo.cs
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 19.02\Progetto_Metodi\obj\Debug\net10.0\Progetto_Metodi.csproj.CoreCompileInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 19.02\Progetto_Metodi\obj\Debug\net10.0\Progetto_Metodi.sourcelink.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 19.02\Progetto_Metodi\obj\Debug\net10.0\Progetto_Metodi.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 19.02\Progetto_Metodi\obj\Debug\net10.0\refint\Progetto_Metodi.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 19.02\Progetto_Metodi\obj\Debug\net10.0\Progetto_Metodi.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 19.02\Progetto_Metodi\obj\Debug\net10.0\Progetto_Metodi.genruntimeconfig.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 19.02\Progetto_Metodi\obj\Debug\net10.0\ref\Progetto_Metodi.dll
