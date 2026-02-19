@@ -1,0 +1,14 @@
+C:\Users\rebox\Desktop\corsoitcons\Mercoledì 18.02\Progetto_ArrayCollezioni\bin\Debug\net10.0\Progetto_ArrayCollezioni.exe
+C:\Users\rebox\Desktop\corsoitcons\Mercoledì 18.02\Progetto_ArrayCollezioni\bin\Debug\net10.0\Progetto_ArrayCollezioni.deps.json
+C:\Users\rebox\Desktop\corsoitcons\Mercoledì 18.02\Progetto_ArrayCollezioni\bin\Debug\net10.0\Progetto_ArrayCollezioni.runtimeconfig.json
+C:\Users\rebox\Desktop\corsoitcons\Mercoledì 18.02\Progetto_ArrayCollezioni\bin\Debug\net10.0\Progetto_ArrayCollezioni.dll
+C:\Users\rebox\Desktop\corsoitcons\Mercoledì 18.02\Progetto_ArrayCollezioni\bin\Debug\net10.0\Progetto_ArrayCollezioni.pdb
+C:\Users\rebox\Desktop\corsoitcons\Mercoledì 18.02\Progetto_ArrayCollezioni\obj\Debug\net10.0\Progetto_ArrayCollezioni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebox\Desktop\corsoitcons\Mercoledì 18.02\Progetto_ArrayCollezioni\obj\Debug\net10.0\Progetto_ArrayCollezioni.AssemblyInfoInputs.cache
+C:\Users\rebox\Desktop\corsoitcons\Mercoledì 18.02\Progetto_ArrayCollezioni\obj\Debug\net10.0\Progetto_ArrayCollezioni.AssemblyInfo.cs
+C:\Users\rebox\Desktop\corsoitcons\Mercoledì 18.02\Progetto_ArrayCollezioni\obj\Debug\net10.0\Progetto_ArrayCollezioni.csproj.CoreCompileInputs.cache
+C:\Users\rebox\Desktop\corsoitcons\Mercoledì 18.02\Progetto_ArrayCollezioni\obj\Debug\net10.0\Progetto_ArrayCollezioni.dll
+C:\Users\rebox\Desktop\corsoitcons\Mercoledì 18.02\Progetto_ArrayCollezioni\obj\Debug\net10.0\refint\Progetto_ArrayCollezioni.dll
+C:\Users\rebox\Desktop\corsoitcons\Mercoledì 18.02\Progetto_ArrayCollezioni\obj\Debug\net10.0\Progetto_ArrayCollezioni.pdb
+C:\Users\rebox\Desktop\corsoitcons\Mercoledì 18.02\Progetto_ArrayCollezioni\obj\Debug\net10.0\Progetto_ArrayCollezioni.genruntimeconfig.cache
+C:\Users\rebox\Desktop\corsoitcons\Mercoledì 18.02\Progetto_ArrayCollezioni\obj\Debug\net10.0\ref\Progetto_ArrayCollezioni.dll

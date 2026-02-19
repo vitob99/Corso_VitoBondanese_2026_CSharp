@@ -1,0 +1,14 @@
+C:\Users\rebox\Desktop\corsoitcons\Mercoledì 18.02\Progetto_ProvaPratica\bin\Debug\net10.0\Progetto_ProvaPratica.exe
+C:\Users\rebox\Desktop\corsoitcons\Mercoledì 18.02\Progetto_ProvaPratica\bin\Debug\net10.0\Progetto_ProvaPratica.deps.json
+C:\Users\rebox\Desktop\corsoitcons\Mercoledì 18.02\Progetto_ProvaPratica\bin\Debug\net10.0\Progetto_ProvaPratica.runtimeconfig.json
+C:\Users\rebox\Desktop\corsoitcons\Mercoledì 18.02\Progetto_ProvaPratica\bin\Debug\net10.0\Progetto_ProvaPratica.dll
+C:\Users\rebox\Desktop\corsoitcons\Mercoledì 18.02\Progetto_ProvaPratica\bin\Debug\net10.0\Progetto_ProvaPratica.pdb
+C:\Users\rebox\Desktop\corsoitcons\Mercoledì 18.02\Progetto_ProvaPratica\obj\Debug\net10.0\Progetto_ProvaPratica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebox\Desktop\corsoitcons\Mercoledì 18.02\Progetto_ProvaPratica\obj\Debug\net10.0\Progetto_ProvaPratica.AssemblyInfoInputs.cache
+C:\Users\rebox\Desktop\corsoitcons\Mercoledì 18.02\Progetto_ProvaPratica\obj\Debug\net10.0\Progetto_ProvaPratica.AssemblyInfo.cs
+C:\Users\rebox\Desktop\corsoitcons\Mercoledì 18.02\Progetto_ProvaPratica\obj\Debug\net10.0\Progetto_ProvaPratica.csproj.CoreCompileInputs.cache
+C:\Users\rebox\Desktop\corsoitcons\Mercoledì 18.02\Progetto_ProvaPratica\obj\Debug\net10.0\Progetto_ProvaPratica.dll
+C:\Users\rebox\Desktop\corsoitcons\Mercoledì 18.02\Progetto_ProvaPratica\obj\Debug\net10.0\refint\Progetto_ProvaPratica.dll
+C:\Users\rebox\Desktop\corsoitcons\Mercoledì 18.02\Progetto_ProvaPratica\obj\Debug\net10.0\Progetto_ProvaPratica.pdb
+C:\Users\rebox\Desktop\corsoitcons\Mercoledì 18.02\Progetto_ProvaPratica\obj\Debug\net10.0\Progetto_ProvaPratica.genruntimeconfig.cache
+C:\Users\rebox\Desktop\corsoitcons\Mercoledì 18.02\Progetto_ProvaPratica\obj\Debug\net10.0\ref\Progetto_ProvaPratica.dll

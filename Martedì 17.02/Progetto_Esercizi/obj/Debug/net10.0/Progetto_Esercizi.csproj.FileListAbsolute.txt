@@ -1,0 +1,14 @@
+C:\Users\rebox\Desktop\corsoitcons\Martedì 17.02\Progetto_Esercizi\bin\Debug\net10.0\Progetto_Esercizi.exe
+C:\Users\rebox\Desktop\corsoitcons\Martedì 17.02\Progetto_Esercizi\bin\Debug\net10.0\Progetto_Esercizi.deps.json
+C:\Users\rebox\Desktop\corsoitcons\Martedì 17.02\Progetto_Esercizi\bin\Debug\net10.0\Progetto_Esercizi.runtimeconfig.json
+C:\Users\rebox\Desktop\corsoitcons\Martedì 17.02\Progetto_Esercizi\bin\Debug\net10.0\Progetto_Esercizi.dll
+C:\Users\rebox\Desktop\corsoitcons\Martedì 17.02\Progetto_Esercizi\bin\Debug\net10.0\Progetto_Esercizi.pdb
+C:\Users\rebox\Desktop\corsoitcons\Martedì 17.02\Progetto_Esercizi\obj\Debug\net10.0\Progetto_Esercizi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebox\Desktop\corsoitcons\Martedì 17.02\Progetto_Esercizi\obj\Debug\net10.0\Progetto_Esercizi.AssemblyInfoInputs.cache
+C:\Users\rebox\Desktop\corsoitcons\Martedì 17.02\Progetto_Esercizi\obj\Debug\net10.0\Progetto_Esercizi.AssemblyInfo.cs
+C:\Users\rebox\Desktop\corsoitcons\Martedì 17.02\Progetto_Esercizi\obj\Debug\net10.0\Progetto_Esercizi.csproj.CoreCompileInputs.cache
+C:\Users\rebox\Desktop\corsoitcons\Martedì 17.02\Progetto_Esercizi\obj\Debug\net10.0\Progetto_Esercizi.dll
+C:\Users\rebox\Desktop\corsoitcons\Martedì 17.02\Progetto_Esercizi\obj\Debug\net10.0\refint\Progetto_Esercizi.dll
+C:\Users\rebox\Desktop\corsoitcons\Martedì 17.02\Progetto_Esercizi\obj\Debug\net10.0\Progetto_Esercizi.pdb
+C:\Users\rebox\Desktop\corsoitcons\Martedì 17.02\Progetto_Esercizi\obj\Debug\net10.0\Progetto_Esercizi.genruntimeconfig.cache
+C:\Users\rebox\Desktop\corsoitcons\Martedì 17.02\Progetto_Esercizi\obj\Debug\net10.0\ref\Progetto_Esercizi.dll
