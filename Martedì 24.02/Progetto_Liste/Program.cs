@@ -3,18 +3,7 @@ using System.Security.Authentication;
 
 class Program
 {
-    private static int contaOccorrenze(List<int> l, int i)
-    {
-        int n = 0;
-        foreach(int intero in l)
-        {
-            if(intero == i)
-            {
-                n++;
-            }
-        }
-        return n;
-    }    public static void Main(string[] args)
+    public static void Main(string[] args)
     {
         //LISTE
         List<string> nomi = new List<string>();
@@ -122,7 +111,7 @@ class Program
         const int N_ELEMENTI2 = 15;
         for(int i = 0; i < N_ELEMENTI2; i++)
         {
-            lista_casuali2.Add(r.Next(1, 100));
+            lista_casuali2.Add(r.Next(1, 20));
         }
 
 
@@ -140,6 +129,7 @@ class Program
                 lista_casuali2.RemoveAt(i);
             }
         }
+        //lista_ordinata = lista_casuali2.Distinct().ToList();   resituisce la lista già senza duplicati
         lista_casuali2.Sort();
 
 
