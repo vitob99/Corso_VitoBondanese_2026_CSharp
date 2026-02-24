@@ -1,0 +1,15 @@
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 24.02\Progetto_Collezioni\bin\Debug\net10.0\Progetto_Collezioni.exe
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 24.02\Progetto_Collezioni\bin\Debug\net10.0\Progetto_Collezioni.deps.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 24.02\Progetto_Collezioni\bin\Debug\net10.0\Progetto_Collezioni.runtimeconfig.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 24.02\Progetto_Collezioni\bin\Debug\net10.0\Progetto_Collezioni.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 24.02\Progetto_Collezioni\bin\Debug\net10.0\Progetto_Collezioni.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 24.02\Progetto_Collezioni\obj\Debug\net10.0\Progetto_Collezioni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 24.02\Progetto_Collezioni\obj\Debug\net10.0\Progetto_Collezioni.AssemblyInfoInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 24.02\Progetto_Collezioni\obj\Debug\net10.0\Progetto_Collezioni.AssemblyInfo.cs
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 24.02\Progetto_Collezioni\obj\Debug\net10.0\Progetto_Collezioni.csproj.CoreCompileInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 24.02\Progetto_Collezioni\obj\Debug\net10.0\Progetto_Collezioni.sourcelink.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 24.02\Progetto_Collezioni\obj\Debug\net10.0\Progetto_Collezioni.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 24.02\Progetto_Collezioni\obj\Debug\net10.0\refint\Progetto_Collezioni.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 24.02\Progetto_Collezioni\obj\Debug\net10.0\Progetto_Collezioni.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 24.02\Progetto_Collezioni\obj\Debug\net10.0\Progetto_Collezioni.genruntimeconfig.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 24.02\Progetto_Collezioni\obj\Debug\net10.0\ref\Progetto_Collezioni.dll
