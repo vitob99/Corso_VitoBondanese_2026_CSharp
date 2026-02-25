@@ -319,4 +319,54 @@ where L.anno_pubblicazione BETWEEN 2000 AND 2010;
 
 
 
+
+
+Esercizio 3 – INNER JOIN + WHERE + IN
+Visualizzare i dati dei libri venduti nei negozi appartenenti a una lista specifica:
+    ('Libreria Centrale', 'BookCity Milano', 'Cartoleria Roma').
+    Mostrare titolo, negozio, quantita, prezzo totale (quantita * prezzo).
+
+
+select L.titolo as TitoloLibro, V.negozio as Negozio, V.quantita as Quantità, (V.quantita * L.prezzo) as PrezzoTotale
+from Libri L
+inner join Vendite V on L.id = V.id_libro
+where V.negozio in ('Libreria Centrale', 'BookCity Milano', 'Cartoleria Roma');
+
+==================================================================
+
+Esercizio 4 – RIGHT JOIN + WHERE + LIKE + BETWEEN
+Mostrare tutti i record di vendita, anche quelli che fanno riferimento a libri non più presenti nellatabella Libri (caso anomalo).
+    Mostrare: titolo (se esiste), data_vendita, prezzo, quantita.
+    Includere solo le vendite:
+        avvenute tra il 2020-01-01 e il 2022-12-31
+        presso negozi il cui nome contiene la parola “Book” (case-insensitive).
+
+select L.titolo as TitoloLibro, V.data_vendita as DataVendita, L.prezzo as PrezzoLibro, V.quantita as Quantità
+from Libri L
+right join Vendite V on L.id = V.id_libro
+where (V.data_vendita between '2020-01-02' and '2022-12-31') and (lower(V.negozi) like '%Book%');
+
+==================================================================
+
+Esercizio 5 – INNER JOIN + WHERE combinato
+Mostrare titolo, autore, prezzo e data_vendita dei libri:
+con genere IN (‘Fantasy’,‘Horror’,‘Giallo’)pubblicati dopo il 2015, venduti in negozi il cui nome contiene ‘Store’, ordinati dal più recente al più vecchio.
+
+select L.titolo as TitoloLibro, L.autore as AutoreLibro, V.data_vendita as DataVendita
+from Libri L
+inner join Vendite V on L.id = V.id_libro
+where L.genere in ('Fantasy','Horror','Giallo') and L.anno_pubblicazione > 2015 and lower(V.negozio) like '%Store%'
+order by L.anno_pubblicazione desc;
+
+
+
+
+
+
+
+
+
+
+
+
 */
