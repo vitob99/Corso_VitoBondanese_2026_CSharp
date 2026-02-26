@@ -1,0 +1,15 @@
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 26.02\Progetto_Dizionari\bin\Debug\net10.0\Progetto_Dizionari.exe
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 26.02\Progetto_Dizionari\bin\Debug\net10.0\Progetto_Dizionari.deps.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 26.02\Progetto_Dizionari\bin\Debug\net10.0\Progetto_Dizionari.runtimeconfig.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 26.02\Progetto_Dizionari\bin\Debug\net10.0\Progetto_Dizionari.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 26.02\Progetto_Dizionari\bin\Debug\net10.0\Progetto_Dizionari.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 26.02\Progetto_Dizionari\obj\Debug\net10.0\Progetto_Dizionari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 26.02\Progetto_Dizionari\obj\Debug\net10.0\Progetto_Dizionari.AssemblyInfoInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 26.02\Progetto_Dizionari\obj\Debug\net10.0\Progetto_Dizionari.AssemblyInfo.cs
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 26.02\Progetto_Dizionari\obj\Debug\net10.0\Progetto_Dizionari.csproj.CoreCompileInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 26.02\Progetto_Dizionari\obj\Debug\net10.0\Progetto_Dizionari.sourcelink.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 26.02\Progetto_Dizionari\obj\Debug\net10.0\Progetto_Dizionari.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 26.02\Progetto_Dizionari\obj\Debug\net10.0\refint\Progetto_Dizionari.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 26.02\Progetto_Dizionari\obj\Debug\net10.0\Progetto_Dizionari.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 26.02\Progetto_Dizionari\obj\Debug\net10.0\Progetto_Dizionari.genruntimeconfig.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 26.02\Progetto_Dizionari\obj\Debug\net10.0\ref\Progetto_Dizionari.dll
