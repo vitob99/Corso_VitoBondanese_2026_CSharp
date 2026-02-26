@@ -1,0 +1,15 @@
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 26.02\Progetto_Enum\bin\Debug\net10.0\Progetto_Enum.exe
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 26.02\Progetto_Enum\bin\Debug\net10.0\Progetto_Enum.deps.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 26.02\Progetto_Enum\bin\Debug\net10.0\Progetto_Enum.runtimeconfig.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 26.02\Progetto_Enum\bin\Debug\net10.0\Progetto_Enum.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 26.02\Progetto_Enum\bin\Debug\net10.0\Progetto_Enum.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 26.02\Progetto_Enum\obj\Debug\net10.0\Progetto_Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 26.02\Progetto_Enum\obj\Debug\net10.0\Progetto_Enum.AssemblyInfoInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 26.02\Progetto_Enum\obj\Debug\net10.0\Progetto_Enum.AssemblyInfo.cs
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 26.02\Progetto_Enum\obj\Debug\net10.0\Progetto_Enum.csproj.CoreCompileInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 26.02\Progetto_Enum\obj\Debug\net10.0\Progetto_Enum.sourcelink.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 26.02\Progetto_Enum\obj\Debug\net10.0\Progetto_Enum.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 26.02\Progetto_Enum\obj\Debug\net10.0\refint\Progetto_Enum.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 26.02\Progetto_Enum\obj\Debug\net10.0\Progetto_Enum.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 26.02\Progetto_Enum\obj\Debug\net10.0\Progetto_Enum.genruntimeconfig.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 26.02\Progetto_Enum\obj\Debug\net10.0\ref\Progetto_Enum.dll
