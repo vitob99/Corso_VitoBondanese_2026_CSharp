@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Progetto_ClassiOggetti/1.0.0": {
+        "runtime": {
+          "Progetto_ClassiOggetti.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Progetto_ClassiOggetti/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

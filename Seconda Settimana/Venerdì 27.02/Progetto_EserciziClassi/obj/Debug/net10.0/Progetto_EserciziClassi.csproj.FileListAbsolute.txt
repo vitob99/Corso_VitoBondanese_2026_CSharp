@@ -1,0 +1,15 @@
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 27.02\Progetto_EserciziClassi\bin\Debug\net10.0\Progetto_EserciziClassi.exe
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 27.02\Progetto_EserciziClassi\bin\Debug\net10.0\Progetto_EserciziClassi.deps.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 27.02\Progetto_EserciziClassi\bin\Debug\net10.0\Progetto_EserciziClassi.runtimeconfig.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 27.02\Progetto_EserciziClassi\bin\Debug\net10.0\Progetto_EserciziClassi.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 27.02\Progetto_EserciziClassi\bin\Debug\net10.0\Progetto_EserciziClassi.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 27.02\Progetto_EserciziClassi\obj\Debug\net10.0\Progetto_EserciziClassi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 27.02\Progetto_EserciziClassi\obj\Debug\net10.0\Progetto_EserciziClassi.AssemblyInfoInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 27.02\Progetto_EserciziClassi\obj\Debug\net10.0\Progetto_EserciziClassi.AssemblyInfo.cs
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 27.02\Progetto_EserciziClassi\obj\Debug\net10.0\Progetto_EserciziClassi.csproj.CoreCompileInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 27.02\Progetto_EserciziClassi\obj\Debug\net10.0\Progetto_EserciziClassi.sourcelink.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 27.02\Progetto_EserciziClassi\obj\Debug\net10.0\Progetto_EserciziClassi.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 27.02\Progetto_EserciziClassi\obj\Debug\net10.0\refint\Progetto_EserciziClassi.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 27.02\Progetto_EserciziClassi\obj\Debug\net10.0\Progetto_EserciziClassi.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 27.02\Progetto_EserciziClassi\obj\Debug\net10.0\Progetto_EserciziClassi.genruntimeconfig.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 27.02\Progetto_EserciziClassi\obj\Debug\net10.0\ref\Progetto_EserciziClassi.dll

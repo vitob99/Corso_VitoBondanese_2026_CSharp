@@ -1,0 +1,15 @@
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 27.02\Progetto_ClassiOggetti\bin\Debug\net10.0\Progetto_ClassiOggetti.exe
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 27.02\Progetto_ClassiOggetti\bin\Debug\net10.0\Progetto_ClassiOggetti.deps.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 27.02\Progetto_ClassiOggetti\bin\Debug\net10.0\Progetto_ClassiOggetti.runtimeconfig.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 27.02\Progetto_ClassiOggetti\bin\Debug\net10.0\Progetto_ClassiOggetti.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 27.02\Progetto_ClassiOggetti\bin\Debug\net10.0\Progetto_ClassiOggetti.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 27.02\Progetto_ClassiOggetti\obj\Debug\net10.0\Progetto_ClassiOggetti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 27.02\Progetto_ClassiOggetti\obj\Debug\net10.0\Progetto_ClassiOggetti.AssemblyInfoInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 27.02\Progetto_ClassiOggetti\obj\Debug\net10.0\Progetto_ClassiOggetti.AssemblyInfo.cs
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 27.02\Progetto_ClassiOggetti\obj\Debug\net10.0\Progetto_ClassiOggetti.csproj.CoreCompileInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 27.02\Progetto_ClassiOggetti\obj\Debug\net10.0\Progetto_ClassiOggetti.sourcelink.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 27.02\Progetto_ClassiOggetti\obj\Debug\net10.0\Progetto_ClassiOggetti.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 27.02\Progetto_ClassiOggetti\obj\Debug\net10.0\refint\Progetto_ClassiOggetti.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 27.02\Progetto_ClassiOggetti\obj\Debug\net10.0\Progetto_ClassiOggetti.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 27.02\Progetto_ClassiOggetti\obj\Debug\net10.0\Progetto_ClassiOggetti.genruntimeconfig.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 27.02\Progetto_ClassiOggetti\obj\Debug\net10.0\ref\Progetto_ClassiOggetti.dll

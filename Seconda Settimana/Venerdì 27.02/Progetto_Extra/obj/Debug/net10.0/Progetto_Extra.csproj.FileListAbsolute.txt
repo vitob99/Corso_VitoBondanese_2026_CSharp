@@ -1,0 +1,15 @@
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 27.02\Progetto_Extra\bin\Debug\net10.0\Progetto_Extra.exe
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 27.02\Progetto_Extra\bin\Debug\net10.0\Progetto_Extra.deps.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 27.02\Progetto_Extra\bin\Debug\net10.0\Progetto_Extra.runtimeconfig.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 27.02\Progetto_Extra\bin\Debug\net10.0\Progetto_Extra.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 27.02\Progetto_Extra\bin\Debug\net10.0\Progetto_Extra.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 27.02\Progetto_Extra\obj\Debug\net10.0\Progetto_Extra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 27.02\Progetto_Extra\obj\Debug\net10.0\Progetto_Extra.AssemblyInfoInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 27.02\Progetto_Extra\obj\Debug\net10.0\Progetto_Extra.AssemblyInfo.cs
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 27.02\Progetto_Extra\obj\Debug\net10.0\Progetto_Extra.csproj.CoreCompileInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 27.02\Progetto_Extra\obj\Debug\net10.0\Progetto_Extra.sourcelink.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 27.02\Progetto_Extra\obj\Debug\net10.0\Progetto_Extra.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 27.02\Progetto_Extra\obj\Debug\net10.0\refint\Progetto_Extra.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 27.02\Progetto_Extra\obj\Debug\net10.0\Progetto_Extra.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 27.02\Progetto_Extra\obj\Debug\net10.0\Progetto_Extra.genruntimeconfig.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 27.02\Progetto_Extra\obj\Debug\net10.0\ref\Progetto_Extra.dll
