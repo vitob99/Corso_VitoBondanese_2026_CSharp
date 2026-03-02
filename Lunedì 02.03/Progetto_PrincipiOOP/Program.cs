@@ -137,7 +137,7 @@ class Program
                             crediti_utente -= Macchina.COSTO_MOTORE;
                             Console.Write("Nome motore: ");
                             new_nome_motore = Console.ReadLine()!;
-                            
+
                             auto_modifica.motore = new_nome_motore;
                             auto_modifica.nr_modifiche++;
                             Console.WriteLine($"Nome motore cambiato in => {new_nome_motore}");

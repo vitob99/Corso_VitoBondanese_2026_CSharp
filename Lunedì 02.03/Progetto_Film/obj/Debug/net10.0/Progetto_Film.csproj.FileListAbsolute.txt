@@ -1,0 +1,15 @@
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Lunedì 02.03\Progetto_Film\bin\Debug\net10.0\Progetto_Film.exe
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Lunedì 02.03\Progetto_Film\bin\Debug\net10.0\Progetto_Film.deps.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Lunedì 02.03\Progetto_Film\bin\Debug\net10.0\Progetto_Film.runtimeconfig.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Lunedì 02.03\Progetto_Film\bin\Debug\net10.0\Progetto_Film.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Lunedì 02.03\Progetto_Film\bin\Debug\net10.0\Progetto_Film.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Lunedì 02.03\Progetto_Film\obj\Debug\net10.0\Progetto_Film.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Lunedì 02.03\Progetto_Film\obj\Debug\net10.0\Progetto_Film.AssemblyInfoInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Lunedì 02.03\Progetto_Film\obj\Debug\net10.0\Progetto_Film.AssemblyInfo.cs
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Lunedì 02.03\Progetto_Film\obj\Debug\net10.0\Progetto_Film.csproj.CoreCompileInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Lunedì 02.03\Progetto_Film\obj\Debug\net10.0\Progetto_Film.sourcelink.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Lunedì 02.03\Progetto_Film\obj\Debug\net10.0\Progetto_Film.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Lunedì 02.03\Progetto_Film\obj\Debug\net10.0\refint\Progetto_Film.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Lunedì 02.03\Progetto_Film\obj\Debug\net10.0\Progetto_Film.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Lunedì 02.03\Progetto_Film\obj\Debug\net10.0\Progetto_Film.genruntimeconfig.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Lunedì 02.03\Progetto_Film\obj\Debug\net10.0\ref\Progetto_Film.dll
