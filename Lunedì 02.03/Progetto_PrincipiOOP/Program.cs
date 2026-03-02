@@ -5,7 +5,6 @@ class Program
 {
     public static void Main(string[] args)
     {
-        // --- Parte iniziale del tuo codice ---
         Test t = new Test();
         Test t2 = new Test();
         Console.WriteLine(t); 
