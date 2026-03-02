@@ -1,0 +1,15 @@
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Lunedì 02.03\Progetto_EserciziEreditarieta2\bin\Debug\net10.0\Progetto_EserciziEreditarieta2.exe
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Lunedì 02.03\Progetto_EserciziEreditarieta2\bin\Debug\net10.0\Progetto_EserciziEreditarieta2.deps.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Lunedì 02.03\Progetto_EserciziEreditarieta2\bin\Debug\net10.0\Progetto_EserciziEreditarieta2.runtimeconfig.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Lunedì 02.03\Progetto_EserciziEreditarieta2\bin\Debug\net10.0\Progetto_EserciziEreditarieta2.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Lunedì 02.03\Progetto_EserciziEreditarieta2\bin\Debug\net10.0\Progetto_EserciziEreditarieta2.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Lunedì 02.03\Progetto_EserciziEreditarieta2\obj\Debug\net10.0\Progetto_EserciziEreditarieta2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Lunedì 02.03\Progetto_EserciziEreditarieta2\obj\Debug\net10.0\Progetto_EserciziEreditarieta2.AssemblyInfoInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Lunedì 02.03\Progetto_EserciziEreditarieta2\obj\Debug\net10.0\Progetto_EserciziEreditarieta2.AssemblyInfo.cs
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Lunedì 02.03\Progetto_EserciziEreditarieta2\obj\Debug\net10.0\Progetto_EserciziEreditarieta2.csproj.CoreCompileInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Lunedì 02.03\Progetto_EserciziEreditarieta2\obj\Debug\net10.0\Progetto_EserciziEreditarieta2.sourcelink.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Lunedì 02.03\Progetto_EserciziEreditarieta2\obj\Debug\net10.0\Progetto_EserciziEreditarieta2.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Lunedì 02.03\Progetto_EserciziEreditarieta2\obj\Debug\net10.0\refint\Progetto_EserciziEreditarieta2.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Lunedì 02.03\Progetto_EserciziEreditarieta2\obj\Debug\net10.0\Progetto_EserciziEreditarieta2.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Lunedì 02.03\Progetto_EserciziEreditarieta2\obj\Debug\net10.0\Progetto_EserciziEreditarieta2.genruntimeconfig.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Lunedì 02.03\Progetto_EserciziEreditarieta2\obj\Debug\net10.0\ref\Progetto_EserciziEreditarieta2.dll

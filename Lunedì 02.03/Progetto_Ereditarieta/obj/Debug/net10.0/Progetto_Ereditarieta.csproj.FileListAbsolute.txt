@@ -1,0 +1,15 @@
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Lunedì 02.03\Progetto_Ereditarieta\bin\Debug\net10.0\Progetto_Ereditarieta.exe
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Lunedì 02.03\Progetto_Ereditarieta\bin\Debug\net10.0\Progetto_Ereditarieta.deps.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Lunedì 02.03\Progetto_Ereditarieta\bin\Debug\net10.0\Progetto_Ereditarieta.runtimeconfig.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Lunedì 02.03\Progetto_Ereditarieta\bin\Debug\net10.0\Progetto_Ereditarieta.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Lunedì 02.03\Progetto_Ereditarieta\bin\Debug\net10.0\Progetto_Ereditarieta.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Lunedì 02.03\Progetto_Ereditarieta\obj\Debug\net10.0\Progetto_Ereditarieta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Lunedì 02.03\Progetto_Ereditarieta\obj\Debug\net10.0\Progetto_Ereditarieta.AssemblyInfoInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Lunedì 02.03\Progetto_Ereditarieta\obj\Debug\net10.0\Progetto_Ereditarieta.AssemblyInfo.cs
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Lunedì 02.03\Progetto_Ereditarieta\obj\Debug\net10.0\Progetto_Ereditarieta.csproj.CoreCompileInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Lunedì 02.03\Progetto_Ereditarieta\obj\Debug\net10.0\Progetto_Ereditarieta.sourcelink.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Lunedì 02.03\Progetto_Ereditarieta\obj\Debug\net10.0\Progetto_Ereditarieta.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Lunedì 02.03\Progetto_Ereditarieta\obj\Debug\net10.0\refint\Progetto_Ereditarieta.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Lunedì 02.03\Progetto_Ereditarieta\obj\Debug\net10.0\Progetto_Ereditarieta.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Lunedì 02.03\Progetto_Ereditarieta\obj\Debug\net10.0\Progetto_Ereditarieta.genruntimeconfig.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Lunedì 02.03\Progetto_Ereditarieta\obj\Debug\net10.0\ref\Progetto_Ereditarieta.dll
