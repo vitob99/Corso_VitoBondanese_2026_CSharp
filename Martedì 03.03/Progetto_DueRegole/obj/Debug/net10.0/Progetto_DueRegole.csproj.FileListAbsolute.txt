@@ -1,0 +1,15 @@
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 03.03\Progetto_DueRegole\bin\Debug\net10.0\Progetto_DueRegole.exe
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 03.03\Progetto_DueRegole\bin\Debug\net10.0\Progetto_DueRegole.deps.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 03.03\Progetto_DueRegole\bin\Debug\net10.0\Progetto_DueRegole.runtimeconfig.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 03.03\Progetto_DueRegole\bin\Debug\net10.0\Progetto_DueRegole.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 03.03\Progetto_DueRegole\bin\Debug\net10.0\Progetto_DueRegole.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 03.03\Progetto_DueRegole\obj\Debug\net10.0\Progetto_DueRegole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 03.03\Progetto_DueRegole\obj\Debug\net10.0\Progetto_DueRegole.AssemblyInfoInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 03.03\Progetto_DueRegole\obj\Debug\net10.0\Progetto_DueRegole.AssemblyInfo.cs
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 03.03\Progetto_DueRegole\obj\Debug\net10.0\Progetto_DueRegole.csproj.CoreCompileInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 03.03\Progetto_DueRegole\obj\Debug\net10.0\Progetto_DueRegole.sourcelink.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 03.03\Progetto_DueRegole\obj\Debug\net10.0\Progetto_DueRegole.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 03.03\Progetto_DueRegole\obj\Debug\net10.0\refint\Progetto_DueRegole.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 03.03\Progetto_DueRegole\obj\Debug\net10.0\Progetto_DueRegole.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 03.03\Progetto_DueRegole\obj\Debug\net10.0\Progetto_DueRegole.genruntimeconfig.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 03.03\Progetto_DueRegole\obj\Debug\net10.0\ref\Progetto_DueRegole.dll

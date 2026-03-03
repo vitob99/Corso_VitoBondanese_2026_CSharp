@@ -1,0 +1,15 @@
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 03.03\Progetto_Incapsulamento\bin\Debug\net10.0\Progetto_Incapsulamento.exe
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 03.03\Progetto_Incapsulamento\bin\Debug\net10.0\Progetto_Incapsulamento.deps.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 03.03\Progetto_Incapsulamento\bin\Debug\net10.0\Progetto_Incapsulamento.runtimeconfig.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 03.03\Progetto_Incapsulamento\bin\Debug\net10.0\Progetto_Incapsulamento.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 03.03\Progetto_Incapsulamento\bin\Debug\net10.0\Progetto_Incapsulamento.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 03.03\Progetto_Incapsulamento\obj\Debug\net10.0\Progetto_Incapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 03.03\Progetto_Incapsulamento\obj\Debug\net10.0\Progetto_Incapsulamento.AssemblyInfoInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 03.03\Progetto_Incapsulamento\obj\Debug\net10.0\Progetto_Incapsulamento.AssemblyInfo.cs
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 03.03\Progetto_Incapsulamento\obj\Debug\net10.0\Progetto_Incapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 03.03\Progetto_Incapsulamento\obj\Debug\net10.0\Progetto_Incapsulamento.sourcelink.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 03.03\Progetto_Incapsulamento\obj\Debug\net10.0\Progetto_Incapsulamento.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 03.03\Progetto_Incapsulamento\obj\Debug\net10.0\refint\Progetto_Incapsulamento.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 03.03\Progetto_Incapsulamento\obj\Debug\net10.0\Progetto_Incapsulamento.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 03.03\Progetto_Incapsulamento\obj\Debug\net10.0\Progetto_Incapsulamento.genruntimeconfig.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 03.03\Progetto_Incapsulamento\obj\Debug\net10.0\ref\Progetto_Incapsulamento.dll
