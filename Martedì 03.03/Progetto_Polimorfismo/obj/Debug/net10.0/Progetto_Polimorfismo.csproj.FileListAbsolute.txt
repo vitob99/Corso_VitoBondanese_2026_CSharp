@@ -1,0 +1,15 @@
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 03.03\Progetto_Polimorfismo\bin\Debug\net10.0\Progetto_Polimorfismo.exe
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 03.03\Progetto_Polimorfismo\bin\Debug\net10.0\Progetto_Polimorfismo.deps.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 03.03\Progetto_Polimorfismo\bin\Debug\net10.0\Progetto_Polimorfismo.runtimeconfig.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 03.03\Progetto_Polimorfismo\bin\Debug\net10.0\Progetto_Polimorfismo.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 03.03\Progetto_Polimorfismo\bin\Debug\net10.0\Progetto_Polimorfismo.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 03.03\Progetto_Polimorfismo\obj\Debug\net10.0\Progetto_Polimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 03.03\Progetto_Polimorfismo\obj\Debug\net10.0\Progetto_Polimorfismo.AssemblyInfoInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 03.03\Progetto_Polimorfismo\obj\Debug\net10.0\Progetto_Polimorfismo.AssemblyInfo.cs
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 03.03\Progetto_Polimorfismo\obj\Debug\net10.0\Progetto_Polimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 03.03\Progetto_Polimorfismo\obj\Debug\net10.0\Progetto_Polimorfismo.sourcelink.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 03.03\Progetto_Polimorfismo\obj\Debug\net10.0\Progetto_Polimorfismo.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 03.03\Progetto_Polimorfismo\obj\Debug\net10.0\refint\Progetto_Polimorfismo.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 03.03\Progetto_Polimorfismo\obj\Debug\net10.0\Progetto_Polimorfismo.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 03.03\Progetto_Polimorfismo\obj\Debug\net10.0\Progetto_Polimorfismo.genruntimeconfig.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 03.03\Progetto_Polimorfismo\obj\Debug\net10.0\ref\Progetto_Polimorfismo.dll
