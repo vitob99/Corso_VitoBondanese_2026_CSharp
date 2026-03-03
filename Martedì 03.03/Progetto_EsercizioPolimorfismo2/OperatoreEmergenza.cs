@@ -14,7 +14,7 @@ class OperatoreEmergenza : Operatore
     }
     public OperatoreEmergenza(string nome, string turno, int livello_urgenza) : base(nome, turno)
     {
-        this.livello_urgenza = livello_urgenza;
+        LivelloUrgenza = livello_urgenza;
     }
 
     public override void EseguiCompito()

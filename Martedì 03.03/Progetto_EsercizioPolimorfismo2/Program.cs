@@ -50,7 +50,7 @@ class Program
                                 string nome_operatore_emergenze = Console.ReadLine()!;
                                 Console.Write("Turno: ");
                                 string turno_operatore_emergenze = Console.ReadLine()!;
-                                Console.Write("Livello urgenza: ");
+                                Console.Write("Livello urgenza: "); //DA GESTIRE IL LIVELLO TRA 1 E 5
                                 int livello_urgenza = int.Parse(Console.ReadLine()!);
                                 elenco_operatori.Add(new OperatoreEmergenza(nome_operatore_emergenze, turno_operatore_emergenze, livello_urgenza));
                                 Console.WriteLine($"Operatore emergernze '{nome_operatore_emergenze}' aggiunto!");
