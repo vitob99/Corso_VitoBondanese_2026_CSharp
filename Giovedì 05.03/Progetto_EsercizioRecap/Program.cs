@@ -16,6 +16,12 @@ class Program
         return null!;
     }
 
+
+    /*
+        - Da inserire il sistema di logout con altri menù dalla classe UserInterface
+        - Da inserire il sistema di registrazione log per l'uscita
+        - Aggiunta altre features....
+    */
     public static void Main(string[] args)
     {
         List<Persona> lista_persone = new List<Persona>();

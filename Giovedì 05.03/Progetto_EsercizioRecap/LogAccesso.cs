@@ -1,12 +1,12 @@
 class LogAccesso
 {
-    private DateTime data_ora;
+    private DateTime data_ora_entrata;
     private Persona persona;
+    private DateTime data_ora_uscita;
 
-
-    public DateTime DataOra
+    public DateTime DataOraEntrata
     {
-        get{return data_ora;}
+        get{return DataOraEntrata;}
     }
     public Persona Persona
     {
@@ -15,12 +15,12 @@ class LogAccesso
 
     public LogAccesso(Persona persona)
     {
-        this.data_ora = DateTime.Now;
+        data_ora_entrata = DateTime.Now; //per ora solo con data entrata;
         this.persona = persona;
     }
 
     public override string ToString()
     {
-        return $"[{data_ora:dd/MM/yyyy HH:mm:ss}] => Codice badge: {persona.BadgeAccesso.Codice} | Figura: {persona.GetType().Name} | Nome: {persona.Nome} | Cognome: {persona.Cognome} | Codice Fiscale: {persona.CodiceFiscale}";
+        return $"[{DataOraEntrata:dd/MM/yyyy HH:mm:ss}] => Codice badge: {persona.BadgeAccesso.Codice} | Figura: {persona.GetType().Name} | Nome: {persona.Nome} | Cognome: {persona.Cognome} | Codice Fiscale: {persona.CodiceFiscale}";
     }
 }
