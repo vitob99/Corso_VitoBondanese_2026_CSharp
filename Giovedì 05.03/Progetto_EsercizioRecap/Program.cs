@@ -2,33 +2,59 @@
 
 class Program
 {
-    private static bool CercaBadgeInPersone(List<Persona> lista_persone)
+    private static Badge CercaBadgeInPersone(List<Persona> lista_persone, out Persona persona_loggata, string codice_badge)
     {
+        persona_loggata = null!;
         foreach(Persona p in lista_persone)
         {
-            if (p.BadgeAccesso())
+            if (p.BadgeAccesso.Codice == codice_badge)
             {
-                
+                persona_loggata = p;
+                return p.BadgeAccesso;
             }
         }
+        return null!;
     }
 
     public static void Main(string[] args)
     {
         List<Persona> lista_persone = new List<Persona>();
+        lista_persone.Add(new Dipendente("Mario", "Rossi", "FDSFDSSFDFSDFSD", new Badge("DDS"), "DIP004"));
 
-        Badge badge_loggato = null;
 
+        Badge badge_loggato;
+        Persona persona_loggata;
         bool isLogged = false;
         do
         {
             string id_badge = UserInterface.MenuPrincipale();
-            badge_loggato = RaccoltaBadge.CercaBadge(id_badge)!;
+
+
+            badge_loggato = CercaBadgeInPersone(lista_persone, out persona_loggata, id_badge);
             if (badge_loggato != null)
             {
-                
-            }
+                if (!badge_loggato.isAttivo)
+                {
+                    Console.WriteLine("Il badge non e' momentaneamente attivo!");
+                }
+                else
+                {
 
+                    Console.WriteLine($"Benvenuto!\n{persona_loggata}");
+                    RaccoltaAccessi.Aggiungi(persona_loggata);
+                    RaccoltaAccessi.StampaStorico();
+                    
+                    Console.Write("Premi un tasto per continuare");
+                    Console.ReadKey();
+                    isLogged = true;
+                }
+            }
+            else
+            {
+                Console.WriteLine("Errore di accesso: il codice badge inserito non e' valido!");
+                Console.Write("Premi un tasto per continuare");
+                Console.ReadKey();
+            }
         }while(isLogged == false);
         
         

@@ -4,6 +4,7 @@ sealed class UserInterface
 
     public static string MenuPrincipale()
     {
+        Console.Clear();
         Console.WriteLine("BENVENUTO");
         Console.WriteLine();
         Console.Write("Inserisci il codice del tuo badge: ");
