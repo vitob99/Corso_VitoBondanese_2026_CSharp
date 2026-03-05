@@ -20,10 +20,10 @@ class Badge
         get { return data_creazione; }
     }
 
-    public Badge(string codiceIdentificativo)
+    public Badge(string codiceIdentificativo, bool stato)
     {
         codice = codiceIdentificativo;
-        attivo = true;
+        attivo = stato;
         data_creazione = DateTime.Now;
     }
 

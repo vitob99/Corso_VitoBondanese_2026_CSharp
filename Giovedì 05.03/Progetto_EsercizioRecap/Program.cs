@@ -19,7 +19,7 @@ class Program
     public static void Main(string[] args)
     {
         List<Persona> lista_persone = new List<Persona>();
-        lista_persone.Add(new Dipendente("Mario", "Rossi", "FDSFDSSFDFSDFSD", new Badge("DDS"), "DIP004"));
+        lista_persone.Add(new Dipendente("Mario", "Rossi", "FDSFDSSFDFSDFSD", new Badge("DDS", false), "DIP004"));
 
 
         Badge badge_loggato;
