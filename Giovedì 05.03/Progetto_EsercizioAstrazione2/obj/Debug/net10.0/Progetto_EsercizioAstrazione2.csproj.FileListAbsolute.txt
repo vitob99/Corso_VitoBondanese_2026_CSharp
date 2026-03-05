@@ -1,0 +1,15 @@
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_EsercizioAstrazione2\bin\Debug\net10.0\Progetto_EsercizioAstrazione2.exe
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_EsercizioAstrazione2\bin\Debug\net10.0\Progetto_EsercizioAstrazione2.deps.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_EsercizioAstrazione2\bin\Debug\net10.0\Progetto_EsercizioAstrazione2.runtimeconfig.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_EsercizioAstrazione2\bin\Debug\net10.0\Progetto_EsercizioAstrazione2.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_EsercizioAstrazione2\bin\Debug\net10.0\Progetto_EsercizioAstrazione2.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_EsercizioAstrazione2\obj\Debug\net10.0\Progetto_EsercizioAstrazione2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_EsercizioAstrazione2\obj\Debug\net10.0\Progetto_EsercizioAstrazione2.AssemblyInfoInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_EsercizioAstrazione2\obj\Debug\net10.0\Progetto_EsercizioAstrazione2.AssemblyInfo.cs
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_EsercizioAstrazione2\obj\Debug\net10.0\Progetto_EsercizioAstrazione2.csproj.CoreCompileInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_EsercizioAstrazione2\obj\Debug\net10.0\Progetto_EsercizioAstrazione2.sourcelink.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_EsercizioAstrazione2\obj\Debug\net10.0\Progetto_EsercizioAstrazione2.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_EsercizioAstrazione2\obj\Debug\net10.0\refint\Progetto_EsercizioAstrazione2.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_EsercizioAstrazione2\obj\Debug\net10.0\Progetto_EsercizioAstrazione2.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_EsercizioAstrazione2\obj\Debug\net10.0\Progetto_EsercizioAstrazione2.genruntimeconfig.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_EsercizioAstrazione2\obj\Debug\net10.0\ref\Progetto_EsercizioAstrazione2.dll

@@ -1,0 +1,15 @@
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_Astrazione\bin\Debug\net10.0\Progetto_Astrazione.exe
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_Astrazione\bin\Debug\net10.0\Progetto_Astrazione.deps.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_Astrazione\bin\Debug\net10.0\Progetto_Astrazione.runtimeconfig.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_Astrazione\bin\Debug\net10.0\Progetto_Astrazione.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_Astrazione\bin\Debug\net10.0\Progetto_Astrazione.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_Astrazione\obj\Debug\net10.0\Progetto_Astrazione.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_Astrazione\obj\Debug\net10.0\Progetto_Astrazione.AssemblyInfoInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_Astrazione\obj\Debug\net10.0\Progetto_Astrazione.AssemblyInfo.cs
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_Astrazione\obj\Debug\net10.0\Progetto_Astrazione.csproj.CoreCompileInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_Astrazione\obj\Debug\net10.0\Progetto_Astrazione.sourcelink.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_Astrazione\obj\Debug\net10.0\Progetto_Astrazione.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_Astrazione\obj\Debug\net10.0\refint\Progetto_Astrazione.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_Astrazione\obj\Debug\net10.0\Progetto_Astrazione.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_Astrazione\obj\Debug\net10.0\Progetto_Astrazione.genruntimeconfig.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_Astrazione\obj\Debug\net10.0\ref\Progetto_Astrazione.dll
