@@ -19,7 +19,7 @@ class Program
     public static void Main(string[] args)
     {
         List<Persona> lista_persone = new List<Persona>();
-        lista_persone.Add(new Dipendente("Mario", "Rossi", "FDSFDSSFDFSDFSD", new Badge("DDS", false), "DIP004"));
+        lista_persone.Add(new Dipendente("Mario", "Rossi", "FDSFDSSFDFSDFSD", new Badge("DDS", true), "DIP004"));
 
 
         Badge badge_loggato;
@@ -36,10 +36,13 @@ class Program
                 if (!badge_loggato.isAttivo)
                 {
                     Console.WriteLine("Il badge non e' momentaneamente attivo!");
+
+                    
+                    Console.Write("Premi un tasto per continuare");
+                    Console.ReadKey();
                 }
                 else
                 {
-
                     Console.WriteLine($"Benvenuto!\n{persona_loggata}");
                     RaccoltaAccessi.Aggiungi(persona_loggata);
                     RaccoltaAccessi.StampaStorico();
