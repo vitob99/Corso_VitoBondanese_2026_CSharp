@@ -1,0 +1,15 @@
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_EsercizioRecap\bin\Debug\net10.0\Progetto_EsercizioRecap.exe
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_EsercizioRecap\bin\Debug\net10.0\Progetto_EsercizioRecap.deps.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_EsercizioRecap\bin\Debug\net10.0\Progetto_EsercizioRecap.runtimeconfig.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_EsercizioRecap\bin\Debug\net10.0\Progetto_EsercizioRecap.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_EsercizioRecap\bin\Debug\net10.0\Progetto_EsercizioRecap.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_EsercizioRecap\obj\Debug\net10.0\Progetto_EsercizioRecap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_EsercizioRecap\obj\Debug\net10.0\Progetto_EsercizioRecap.AssemblyInfoInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_EsercizioRecap\obj\Debug\net10.0\Progetto_EsercizioRecap.AssemblyInfo.cs
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_EsercizioRecap\obj\Debug\net10.0\Progetto_EsercizioRecap.csproj.CoreCompileInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_EsercizioRecap\obj\Debug\net10.0\Progetto_EsercizioRecap.sourcelink.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_EsercizioRecap\obj\Debug\net10.0\Progetto_EsercizioRecap.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_EsercizioRecap\obj\Debug\net10.0\refint\Progetto_EsercizioRecap.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_EsercizioRecap\obj\Debug\net10.0\Progetto_EsercizioRecap.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_EsercizioRecap\obj\Debug\net10.0\Progetto_EsercizioRecap.genruntimeconfig.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_EsercizioRecap\obj\Debug\net10.0\ref\Progetto_EsercizioRecap.dll

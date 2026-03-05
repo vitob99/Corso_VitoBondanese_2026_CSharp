@@ -1,0 +1,15 @@
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_EsercizioSingolo\bin\Debug\net10.0\Progetto_EsercizioSingolo.exe
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_EsercizioSingolo\bin\Debug\net10.0\Progetto_EsercizioSingolo.deps.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_EsercizioSingolo\bin\Debug\net10.0\Progetto_EsercizioSingolo.runtimeconfig.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_EsercizioSingolo\bin\Debug\net10.0\Progetto_EsercizioSingolo.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_EsercizioSingolo\bin\Debug\net10.0\Progetto_EsercizioSingolo.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_EsercizioSingolo\obj\Debug\net10.0\Progetto_EsercizioSingolo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_EsercizioSingolo\obj\Debug\net10.0\Progetto_EsercizioSingolo.AssemblyInfoInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_EsercizioSingolo\obj\Debug\net10.0\Progetto_EsercizioSingolo.AssemblyInfo.cs
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_EsercizioSingolo\obj\Debug\net10.0\Progetto_EsercizioSingolo.csproj.CoreCompileInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_EsercizioSingolo\obj\Debug\net10.0\Progetto_EsercizioSingolo.sourcelink.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_EsercizioSingolo\obj\Debug\net10.0\Progetto_EsercizioSingolo.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_EsercizioSingolo\obj\Debug\net10.0\refint\Progetto_EsercizioSingolo.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_EsercizioSingolo\obj\Debug\net10.0\Progetto_EsercizioSingolo.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_EsercizioSingolo\obj\Debug\net10.0\Progetto_EsercizioSingolo.genruntimeconfig.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Giovedì 05.03\Progetto_EsercizioSingolo\obj\Debug\net10.0\ref\Progetto_EsercizioSingolo.dll
