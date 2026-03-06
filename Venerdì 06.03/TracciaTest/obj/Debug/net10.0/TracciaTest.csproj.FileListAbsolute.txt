@@ -1,0 +1,15 @@
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 06.03\TracciaTest\bin\Debug\net10.0\TracciaTest.exe
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 06.03\TracciaTest\bin\Debug\net10.0\TracciaTest.deps.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 06.03\TracciaTest\bin\Debug\net10.0\TracciaTest.runtimeconfig.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 06.03\TracciaTest\bin\Debug\net10.0\TracciaTest.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 06.03\TracciaTest\bin\Debug\net10.0\TracciaTest.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 06.03\TracciaTest\obj\Debug\net10.0\TracciaTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 06.03\TracciaTest\obj\Debug\net10.0\TracciaTest.AssemblyInfoInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 06.03\TracciaTest\obj\Debug\net10.0\TracciaTest.AssemblyInfo.cs
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 06.03\TracciaTest\obj\Debug\net10.0\TracciaTest.csproj.CoreCompileInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 06.03\TracciaTest\obj\Debug\net10.0\TracciaTest.sourcelink.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 06.03\TracciaTest\obj\Debug\net10.0\TracciaTest.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 06.03\TracciaTest\obj\Debug\net10.0\refint\TracciaTest.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 06.03\TracciaTest\obj\Debug\net10.0\TracciaTest.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 06.03\TracciaTest\obj\Debug\net10.0\TracciaTest.genruntimeconfig.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Venerdì 06.03\TracciaTest\obj\Debug\net10.0\ref\TracciaTest.dll

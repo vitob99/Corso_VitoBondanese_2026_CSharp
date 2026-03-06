@@ -6,7 +6,12 @@ class LogAccesso
 
     public DateTime DataOraEntrata
     {
-        get{return DataOraEntrata;}
+        get{return data_ora_entrata;}
+    }
+
+    public DateTime DataOraUscita
+    {
+        get{return data_ora_uscita;}
     }
     public Persona Persona
     {

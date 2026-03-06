@@ -2,12 +2,18 @@ sealed class UserInterface
 {
     private UserInterface(){}
 
-    public static string MenuPrincipale()
+    public static string MenuLogin()
     {
         Console.Clear();
         Console.WriteLine("BENVENUTO");
         Console.WriteLine();
         Console.Write("Inserisci il codice del tuo badge: ");
         return Console.ReadLine()!;
+    }
+
+    public static int MenuPrincipale()
+    {
+
+        return 1;
     }
 }

@@ -33,7 +33,7 @@ class Program
         bool isLogged = false;
         do
         {
-            string id_badge = UserInterface.MenuPrincipale();
+            string id_badge = UserInterface.MenuLogin();
 
 
             badge_loggato = CercaBadgeInPersone(lista_persone, out persona_loggata, id_badge);
