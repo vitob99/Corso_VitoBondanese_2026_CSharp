@@ -1,0 +1,15 @@
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\1.Lunedì 09.03\Factory_Esercizio\bin\Debug\net10.0\Factory_Esercizio.exe
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\1.Lunedì 09.03\Factory_Esercizio\bin\Debug\net10.0\Factory_Esercizio.deps.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\1.Lunedì 09.03\Factory_Esercizio\bin\Debug\net10.0\Factory_Esercizio.runtimeconfig.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\1.Lunedì 09.03\Factory_Esercizio\bin\Debug\net10.0\Factory_Esercizio.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\1.Lunedì 09.03\Factory_Esercizio\bin\Debug\net10.0\Factory_Esercizio.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\1.Lunedì 09.03\Factory_Esercizio\obj\Debug\net10.0\Factory_Esercizio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\1.Lunedì 09.03\Factory_Esercizio\obj\Debug\net10.0\Factory_Esercizio.AssemblyInfoInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\1.Lunedì 09.03\Factory_Esercizio\obj\Debug\net10.0\Factory_Esercizio.AssemblyInfo.cs
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\1.Lunedì 09.03\Factory_Esercizio\obj\Debug\net10.0\Factory_Esercizio.csproj.CoreCompileInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\1.Lunedì 09.03\Factory_Esercizio\obj\Debug\net10.0\Factory_Esercizio.sourcelink.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\1.Lunedì 09.03\Factory_Esercizio\obj\Debug\net10.0\Factory_Esercizio.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\1.Lunedì 09.03\Factory_Esercizio\obj\Debug\net10.0\refint\Factory_Esercizio.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\1.Lunedì 09.03\Factory_Esercizio\obj\Debug\net10.0\Factory_Esercizio.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\1.Lunedì 09.03\Factory_Esercizio\obj\Debug\net10.0\Factory_Esercizio.genruntimeconfig.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\1.Lunedì 09.03\Factory_Esercizio\obj\Debug\net10.0\ref\Factory_Esercizio.dll

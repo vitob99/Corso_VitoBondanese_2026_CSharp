@@ -1,0 +1,15 @@
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\1.Lunedì 09.03\Prove_Factory\bin\Debug\net10.0\Prove_Factory.exe
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\1.Lunedì 09.03\Prove_Factory\bin\Debug\net10.0\Prove_Factory.deps.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\1.Lunedì 09.03\Prove_Factory\bin\Debug\net10.0\Prove_Factory.runtimeconfig.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\1.Lunedì 09.03\Prove_Factory\bin\Debug\net10.0\Prove_Factory.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\1.Lunedì 09.03\Prove_Factory\bin\Debug\net10.0\Prove_Factory.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\1.Lunedì 09.03\Prove_Factory\obj\Debug\net10.0\Prove_Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\1.Lunedì 09.03\Prove_Factory\obj\Debug\net10.0\Prove_Factory.AssemblyInfoInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\1.Lunedì 09.03\Prove_Factory\obj\Debug\net10.0\Prove_Factory.AssemblyInfo.cs
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\1.Lunedì 09.03\Prove_Factory\obj\Debug\net10.0\Prove_Factory.csproj.CoreCompileInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\1.Lunedì 09.03\Prove_Factory\obj\Debug\net10.0\Prove_Factory.sourcelink.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\1.Lunedì 09.03\Prove_Factory\obj\Debug\net10.0\Prove_Factory.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\1.Lunedì 09.03\Prove_Factory\obj\Debug\net10.0\refint\Prove_Factory.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\1.Lunedì 09.03\Prove_Factory\obj\Debug\net10.0\Prove_Factory.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\1.Lunedì 09.03\Prove_Factory\obj\Debug\net10.0\Prove_Factory.genruntimeconfig.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\1.Lunedì 09.03\Prove_Factory\obj\Debug\net10.0\ref\Prove_Factory.dll

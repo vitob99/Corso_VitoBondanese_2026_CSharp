@@ -1,4 +1,4 @@
-class Logger
+sealed class Logger
 {
     private List<string> log_list;
     private static Logger? log;
