@@ -1,0 +1,15 @@
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\1.Lunedì 09.03\Prove_Singleton\bin\Debug\net10.0\Prove_Singleton.exe
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\1.Lunedì 09.03\Prove_Singleton\bin\Debug\net10.0\Prove_Singleton.deps.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\1.Lunedì 09.03\Prove_Singleton\bin\Debug\net10.0\Prove_Singleton.runtimeconfig.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\1.Lunedì 09.03\Prove_Singleton\bin\Debug\net10.0\Prove_Singleton.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\1.Lunedì 09.03\Prove_Singleton\bin\Debug\net10.0\Prove_Singleton.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\1.Lunedì 09.03\Prove_Singleton\obj\Debug\net10.0\Prove_Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\1.Lunedì 09.03\Prove_Singleton\obj\Debug\net10.0\Prove_Singleton.AssemblyInfoInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\1.Lunedì 09.03\Prove_Singleton\obj\Debug\net10.0\Prove_Singleton.AssemblyInfo.cs
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\1.Lunedì 09.03\Prove_Singleton\obj\Debug\net10.0\Prove_Singleton.csproj.CoreCompileInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\1.Lunedì 09.03\Prove_Singleton\obj\Debug\net10.0\Prove_Singleton.sourcelink.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\1.Lunedì 09.03\Prove_Singleton\obj\Debug\net10.0\Prove_Singleton.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\1.Lunedì 09.03\Prove_Singleton\obj\Debug\net10.0\refint\Prove_Singleton.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\1.Lunedì 09.03\Prove_Singleton\obj\Debug\net10.0\Prove_Singleton.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\1.Lunedì 09.03\Prove_Singleton\obj\Debug\net10.0\Prove_Singleton.genruntimeconfig.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\1.Lunedì 09.03\Prove_Singleton\obj\Debug\net10.0\ref\Prove_Singleton.dll
