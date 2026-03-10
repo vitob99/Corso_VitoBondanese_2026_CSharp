@@ -1,0 +1,15 @@
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\2.Martedì 10.03\Observer_Esercizio\bin\Debug\net10.0\Observer_Esercizio.exe
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\2.Martedì 10.03\Observer_Esercizio\bin\Debug\net10.0\Observer_Esercizio.deps.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\2.Martedì 10.03\Observer_Esercizio\bin\Debug\net10.0\Observer_Esercizio.runtimeconfig.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\2.Martedì 10.03\Observer_Esercizio\bin\Debug\net10.0\Observer_Esercizio.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\2.Martedì 10.03\Observer_Esercizio\bin\Debug\net10.0\Observer_Esercizio.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\2.Martedì 10.03\Observer_Esercizio\obj\Debug\net10.0\Observer_Esercizio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\2.Martedì 10.03\Observer_Esercizio\obj\Debug\net10.0\Observer_Esercizio.AssemblyInfoInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\2.Martedì 10.03\Observer_Esercizio\obj\Debug\net10.0\Observer_Esercizio.AssemblyInfo.cs
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\2.Martedì 10.03\Observer_Esercizio\obj\Debug\net10.0\Observer_Esercizio.csproj.CoreCompileInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\2.Martedì 10.03\Observer_Esercizio\obj\Debug\net10.0\Observer_Esercizio.sourcelink.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\2.Martedì 10.03\Observer_Esercizio\obj\Debug\net10.0\Observer_Esercizio.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\2.Martedì 10.03\Observer_Esercizio\obj\Debug\net10.0\refint\Observer_Esercizio.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\2.Martedì 10.03\Observer_Esercizio\obj\Debug\net10.0\Observer_Esercizio.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\2.Martedì 10.03\Observer_Esercizio\obj\Debug\net10.0\Observer_Esercizio.genruntimeconfig.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\2.Martedì 10.03\Observer_Esercizio\obj\Debug\net10.0\ref\Observer_Esercizio.dll
