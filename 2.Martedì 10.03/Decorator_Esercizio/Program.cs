@@ -9,7 +9,7 @@ class Program
         //manca l'aggiunta dinamica a scelta
         Caffe c = new Caffe();
 
-        Console.WriteLine($"Costo del caffe': {c.Costo()}");
+        Console.WriteLine($"Costo del caffe': {c.Costo()}$");
         Console.WriteLine($"Descrizione: {c.Descrizione()}\n");
 
         IBevanda decorator1 = new ConPanna(c);
