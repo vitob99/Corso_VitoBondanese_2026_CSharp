@@ -1,0 +1,15 @@
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\2.Martedì 10.03\Prove_Decorator\bin\Debug\net10.0\Prove_Decorator.exe
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\2.Martedì 10.03\Prove_Decorator\bin\Debug\net10.0\Prove_Decorator.deps.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\2.Martedì 10.03\Prove_Decorator\bin\Debug\net10.0\Prove_Decorator.runtimeconfig.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\2.Martedì 10.03\Prove_Decorator\bin\Debug\net10.0\Prove_Decorator.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\2.Martedì 10.03\Prove_Decorator\bin\Debug\net10.0\Prove_Decorator.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\2.Martedì 10.03\Prove_Decorator\obj\Debug\net10.0\Prove_Decorator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\2.Martedì 10.03\Prove_Decorator\obj\Debug\net10.0\Prove_Decorator.AssemblyInfoInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\2.Martedì 10.03\Prove_Decorator\obj\Debug\net10.0\Prove_Decorator.AssemblyInfo.cs
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\2.Martedì 10.03\Prove_Decorator\obj\Debug\net10.0\Prove_Decorator.csproj.CoreCompileInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\2.Martedì 10.03\Prove_Decorator\obj\Debug\net10.0\Prove_Decorator.sourcelink.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\2.Martedì 10.03\Prove_Decorator\obj\Debug\net10.0\Prove_Decorator.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\2.Martedì 10.03\Prove_Decorator\obj\Debug\net10.0\refint\Prove_Decorator.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\2.Martedì 10.03\Prove_Decorator\obj\Debug\net10.0\Prove_Decorator.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\2.Martedì 10.03\Prove_Decorator\obj\Debug\net10.0\Prove_Decorator.genruntimeconfig.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\2.Martedì 10.03\Prove_Decorator\obj\Debug\net10.0\ref\Prove_Decorator.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Decorator_Esercizio/1.0.0": {
+        "runtime": {
+          "Decorator_Esercizio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Decorator_Esercizio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
