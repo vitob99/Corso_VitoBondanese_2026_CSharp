@@ -1,0 +1,15 @@
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Esercizio_Tutti\bin\Debug\net10.0\Esercizio_Tutti.exe
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Esercizio_Tutti\bin\Debug\net10.0\Esercizio_Tutti.deps.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Esercizio_Tutti\bin\Debug\net10.0\Esercizio_Tutti.runtimeconfig.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Esercizio_Tutti\bin\Debug\net10.0\Esercizio_Tutti.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Esercizio_Tutti\bin\Debug\net10.0\Esercizio_Tutti.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Esercizio_Tutti\obj\Debug\net10.0\Esercizio_Tutti.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Esercizio_Tutti\obj\Debug\net10.0\Esercizio_Tutti.AssemblyInfoInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Esercizio_Tutti\obj\Debug\net10.0\Esercizio_Tutti.AssemblyInfo.cs
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Esercizio_Tutti\obj\Debug\net10.0\Esercizio_Tutti.csproj.CoreCompileInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Esercizio_Tutti\obj\Debug\net10.0\Esercizio_Tutti.sourcelink.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Esercizio_Tutti\obj\Debug\net10.0\Esercizio_Tutti.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Esercizio_Tutti\obj\Debug\net10.0\refint\Esercizio_Tutti.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Esercizio_Tutti\obj\Debug\net10.0\Esercizio_Tutti.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Esercizio_Tutti\obj\Debug\net10.0\Esercizio_Tutti.genruntimeconfig.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Esercizio_Tutti\obj\Debug\net10.0\ref\Esercizio_Tutti.dll
