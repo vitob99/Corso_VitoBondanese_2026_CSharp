@@ -1,0 +1,15 @@
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Esercizio_Torta\bin\Debug\net10.0\Esercizio_Torta.exe
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Esercizio_Torta\bin\Debug\net10.0\Esercizio_Torta.deps.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Esercizio_Torta\bin\Debug\net10.0\Esercizio_Torta.runtimeconfig.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Esercizio_Torta\bin\Debug\net10.0\Esercizio_Torta.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Esercizio_Torta\bin\Debug\net10.0\Esercizio_Torta.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Esercizio_Torta\obj\Debug\net10.0\Esercizio_Torta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Esercizio_Torta\obj\Debug\net10.0\Esercizio_Torta.AssemblyInfoInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Esercizio_Torta\obj\Debug\net10.0\Esercizio_Torta.AssemblyInfo.cs
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Esercizio_Torta\obj\Debug\net10.0\Esercizio_Torta.csproj.CoreCompileInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Esercizio_Torta\obj\Debug\net10.0\Esercizio_Torta.sourcelink.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Esercizio_Torta\obj\Debug\net10.0\Esercizio_Torta.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Esercizio_Torta\obj\Debug\net10.0\refint\Esercizio_Torta.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Esercizio_Torta\obj\Debug\net10.0\Esercizio_Torta.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Esercizio_Torta\obj\Debug\net10.0\Esercizio_Torta.genruntimeconfig.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Esercizio_Torta\obj\Debug\net10.0\ref\Esercizio_Torta.dll

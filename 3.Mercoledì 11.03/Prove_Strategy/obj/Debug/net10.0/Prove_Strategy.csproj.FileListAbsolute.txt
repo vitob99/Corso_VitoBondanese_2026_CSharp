@@ -1,0 +1,15 @@
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Prove_Strategy\bin\Debug\net10.0\Prove_Strategy.exe
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Prove_Strategy\bin\Debug\net10.0\Prove_Strategy.deps.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Prove_Strategy\bin\Debug\net10.0\Prove_Strategy.runtimeconfig.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Prove_Strategy\bin\Debug\net10.0\Prove_Strategy.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Prove_Strategy\bin\Debug\net10.0\Prove_Strategy.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Prove_Strategy\obj\Debug\net10.0\Prove_Strategy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Prove_Strategy\obj\Debug\net10.0\Prove_Strategy.AssemblyInfoInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Prove_Strategy\obj\Debug\net10.0\Prove_Strategy.AssemblyInfo.cs
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Prove_Strategy\obj\Debug\net10.0\Prove_Strategy.csproj.CoreCompileInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Prove_Strategy\obj\Debug\net10.0\Prove_Strategy.sourcelink.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Prove_Strategy\obj\Debug\net10.0\Prove_Strategy.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Prove_Strategy\obj\Debug\net10.0\refint\Prove_Strategy.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Prove_Strategy\obj\Debug\net10.0\Prove_Strategy.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Prove_Strategy\obj\Debug\net10.0\Prove_Strategy.genruntimeconfig.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Prove_Strategy\obj\Debug\net10.0\ref\Prove_Strategy.dll

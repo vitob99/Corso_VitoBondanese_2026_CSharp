@@ -1,6 +1,6 @@
 class ConLatte : DecoratoreBevanda
 {
-    private static double COSTO_LATTE = 0.50d;
+    private const double COSTO_LATTE = 0.50d;
     public ConLatte(IBevanda bevanda_da_decorare) : base(bevanda_da_decorare)
     {
         

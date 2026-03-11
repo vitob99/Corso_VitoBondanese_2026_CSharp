@@ -1,0 +1,15 @@
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Strategy_Esercizio\bin\Debug\net10.0\Strategy_Esercizio.exe
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Strategy_Esercizio\bin\Debug\net10.0\Strategy_Esercizio.deps.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Strategy_Esercizio\bin\Debug\net10.0\Strategy_Esercizio.runtimeconfig.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Strategy_Esercizio\bin\Debug\net10.0\Strategy_Esercizio.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Strategy_Esercizio\bin\Debug\net10.0\Strategy_Esercizio.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Strategy_Esercizio\obj\Debug\net10.0\Strategy_Esercizio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Strategy_Esercizio\obj\Debug\net10.0\Strategy_Esercizio.AssemblyInfoInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Strategy_Esercizio\obj\Debug\net10.0\Strategy_Esercizio.AssemblyInfo.cs
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Strategy_Esercizio\obj\Debug\net10.0\Strategy_Esercizio.csproj.CoreCompileInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Strategy_Esercizio\obj\Debug\net10.0\Strategy_Esercizio.sourcelink.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Strategy_Esercizio\obj\Debug\net10.0\Strategy_Esercizio.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Strategy_Esercizio\obj\Debug\net10.0\refint\Strategy_Esercizio.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Strategy_Esercizio\obj\Debug\net10.0\Strategy_Esercizio.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Strategy_Esercizio\obj\Debug\net10.0\Strategy_Esercizio.genruntimeconfig.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\3.Mercoledì 11.03\Strategy_Esercizio\obj\Debug\net10.0\ref\Strategy_Esercizio.dll

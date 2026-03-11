@@ -1,9 +1,8 @@
 class ConPanna : DecoratoreBevanda
 {
-    private static double COSTO_PANNA = 0.50d;
+    private const double COSTO_PANNA = 0.50d;
     public ConPanna(IBevanda bevanda_da_decorare) : base(bevanda_da_decorare)
     {
-        
     }
 
     public override double Costo()

@@ -1,6 +1,6 @@
 class ConCioccolato : DecoratoreBevanda
 {
-    private static double COSTO_CIOCCOLATO =  0.60d;
+    private const double COSTO_CIOCCOLATO =  0.60d;
     public ConCioccolato(IBevanda bevanda_da_decorare) : base(bevanda_da_decorare)
     {
         
