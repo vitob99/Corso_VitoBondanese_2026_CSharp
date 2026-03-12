@@ -1,6 +1,8 @@
 class InterfacciaUtente
 {
-    public static string MenuSceltaPiattiBase()
+    //classe che raccoglie tutti i menù di inserimento
+
+    public static string MenuSceltaPiattiBase() //scelta dei piatti base
     {
         string scelta_piatto_base;
         do
@@ -16,7 +18,7 @@ class InterfacciaUtente
         return scelta_piatto_base;
     }
 
-    public static string MenuSceltaExtra(IPiatto piatto)
+    public static string MenuSceltaExtra(IPiatto piatto)   //menu scelta dell'ingrediente extra da applicare al piatto base
     {
         string scelta_exta;
         do{
@@ -33,7 +35,7 @@ class InterfacciaUtente
         return scelta_exta;
     }
 
-    public static string MenuSceltaCottura(IPiatto piatto)
+    public static string MenuSceltaCottura(IPiatto piatto)  //menu scelta del tipo di cottura
     {
         string scelta_exta;
         do{

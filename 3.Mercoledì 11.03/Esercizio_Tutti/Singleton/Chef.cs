@@ -28,7 +28,7 @@ sealed class Chef : IChefSubject
         
     public void PreparaPiatto(IPiatto piatto)  //viene eseguita la strategia
     {
-        Instance.Notifica(piatto.Descrizione());
+        Instance.Notifica(piatto.Descrizione()); //notifica agli observer della preparazione
         strategia_preparazione!.Prepara(piatto.Descrizione());
     }
 
@@ -42,7 +42,7 @@ sealed class Chef : IChefSubject
         lista_osservatori.Remove(o);
     }
 
-    public void Notifica(string descrizione)
+    public void Notifica(string descrizione)  //avvisa tutti gli observer del cambiamento
     {
         foreach(IObserver o in lista_osservatori)
         {

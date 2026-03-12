@@ -1,4 +1,4 @@
-class NegozioA : IObserver
+class NegozioA : IObserver  //osservatore concreto
 {
     public void NotificaPiattoCreato(string descrizione)
     {
