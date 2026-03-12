@@ -1,0 +1,15 @@
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\4.Giovedì 12.03\Facade_Esercizio\bin\Debug\net10.0\Facade_Esercizio.exe
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\4.Giovedì 12.03\Facade_Esercizio\bin\Debug\net10.0\Facade_Esercizio.deps.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\4.Giovedì 12.03\Facade_Esercizio\bin\Debug\net10.0\Facade_Esercizio.runtimeconfig.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\4.Giovedì 12.03\Facade_Esercizio\bin\Debug\net10.0\Facade_Esercizio.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\4.Giovedì 12.03\Facade_Esercizio\bin\Debug\net10.0\Facade_Esercizio.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\4.Giovedì 12.03\Facade_Esercizio\obj\Debug\net10.0\Facade_Esercizio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\4.Giovedì 12.03\Facade_Esercizio\obj\Debug\net10.0\Facade_Esercizio.AssemblyInfoInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\4.Giovedì 12.03\Facade_Esercizio\obj\Debug\net10.0\Facade_Esercizio.AssemblyInfo.cs
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\4.Giovedì 12.03\Facade_Esercizio\obj\Debug\net10.0\Facade_Esercizio.csproj.CoreCompileInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\4.Giovedì 12.03\Facade_Esercizio\obj\Debug\net10.0\Facade_Esercizio.sourcelink.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\4.Giovedì 12.03\Facade_Esercizio\obj\Debug\net10.0\Facade_Esercizio.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\4.Giovedì 12.03\Facade_Esercizio\obj\Debug\net10.0\refint\Facade_Esercizio.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\4.Giovedì 12.03\Facade_Esercizio\obj\Debug\net10.0\Facade_Esercizio.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\4.Giovedì 12.03\Facade_Esercizio\obj\Debug\net10.0\Facade_Esercizio.genruntimeconfig.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\4.Giovedì 12.03\Facade_Esercizio\obj\Debug\net10.0\ref\Facade_Esercizio.dll

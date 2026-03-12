@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Prove_Facade/1.0.0": {
+        "runtime": {
+          "Prove_Facade.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Prove_Facade/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\4.Giovedì 12.03\Prove_Facade\bin\Debug\net10.0\Prove_Facade.exe
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\4.Giovedì 12.03\Prove_Facade\bin\Debug\net10.0\Prove_Facade.deps.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\4.Giovedì 12.03\Prove_Facade\bin\Debug\net10.0\Prove_Facade.runtimeconfig.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\4.Giovedì 12.03\Prove_Facade\bin\Debug\net10.0\Prove_Facade.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\4.Giovedì 12.03\Prove_Facade\bin\Debug\net10.0\Prove_Facade.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\4.Giovedì 12.03\Prove_Facade\obj\Debug\net10.0\Prove_Facade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\4.Giovedì 12.03\Prove_Facade\obj\Debug\net10.0\Prove_Facade.AssemblyInfoInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\4.Giovedì 12.03\Prove_Facade\obj\Debug\net10.0\Prove_Facade.AssemblyInfo.cs
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\4.Giovedì 12.03\Prove_Facade\obj\Debug\net10.0\Prove_Facade.csproj.CoreCompileInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\4.Giovedì 12.03\Prove_Facade\obj\Debug\net10.0\Prove_Facade.sourcelink.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\4.Giovedì 12.03\Prove_Facade\obj\Debug\net10.0\Prove_Facade.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\4.Giovedì 12.03\Prove_Facade\obj\Debug\net10.0\refint\Prove_Facade.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\4.Giovedì 12.03\Prove_Facade\obj\Debug\net10.0\Prove_Facade.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\4.Giovedì 12.03\Prove_Facade\obj\Debug\net10.0\Prove_Facade.genruntimeconfig.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\4.Giovedì 12.03\Prove_Facade\obj\Debug\net10.0\ref\Prove_Facade.dll

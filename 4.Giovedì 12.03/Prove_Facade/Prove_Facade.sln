@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Prove_Facade", "Prove_Facade.csproj", "{8C3BAA56-F7E9-0A60-D893-069AEB6AC021}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C3BAA56-F7E9-0A60-D893-069AEB6AC021}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C3BAA56-F7E9-0A60-D893-069AEB6AC021}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C3BAA56-F7E9-0A60-D893-069AEB6AC021}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C3BAA56-F7E9-0A60-D893-069AEB6AC021}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED5E3AC0-32DF-41B5-8AD0-48D1E8A8DF02}
+	EndGlobalSection
+EndGlobal
