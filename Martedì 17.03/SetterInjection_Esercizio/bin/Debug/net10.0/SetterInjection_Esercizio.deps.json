@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "SetterInjection_Esercizio/1.0.0": {
+        "runtime": {
+          "SetterInjection_Esercizio.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SetterInjection_Esercizio/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

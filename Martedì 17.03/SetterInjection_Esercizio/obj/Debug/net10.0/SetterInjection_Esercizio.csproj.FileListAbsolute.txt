@@ -1,0 +1,15 @@
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 17.03\SetterInjection_Esercizio\bin\Debug\net10.0\SetterInjection_Esercizio.exe
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 17.03\SetterInjection_Esercizio\bin\Debug\net10.0\SetterInjection_Esercizio.deps.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 17.03\SetterInjection_Esercizio\bin\Debug\net10.0\SetterInjection_Esercizio.runtimeconfig.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 17.03\SetterInjection_Esercizio\bin\Debug\net10.0\SetterInjection_Esercizio.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 17.03\SetterInjection_Esercizio\bin\Debug\net10.0\SetterInjection_Esercizio.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 17.03\SetterInjection_Esercizio\obj\Debug\net10.0\SetterInjection_Esercizio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 17.03\SetterInjection_Esercizio\obj\Debug\net10.0\SetterInjection_Esercizio.AssemblyInfoInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 17.03\SetterInjection_Esercizio\obj\Debug\net10.0\SetterInjection_Esercizio.AssemblyInfo.cs
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 17.03\SetterInjection_Esercizio\obj\Debug\net10.0\SetterInjection_Esercizio.csproj.CoreCompileInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 17.03\SetterInjection_Esercizio\obj\Debug\net10.0\SetterInjection_Esercizio.sourcelink.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 17.03\SetterInjection_Esercizio\obj\Debug\net10.0\SetterInjection_Esercizio.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 17.03\SetterInjection_Esercizio\obj\Debug\net10.0\refint\SetterInjection_Esercizio.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 17.03\SetterInjection_Esercizio\obj\Debug\net10.0\SetterInjection_Esercizio.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 17.03\SetterInjection_Esercizio\obj\Debug\net10.0\SetterInjection_Esercizio.genruntimeconfig.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 17.03\SetterInjection_Esercizio\obj\Debug\net10.0\ref\SetterInjection_Esercizio.dll
