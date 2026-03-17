@@ -1,0 +1,15 @@
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 17.03\Prova_DipendencyInjection\bin\Debug\net10.0\Prova_DipendencyInjection.exe
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 17.03\Prova_DipendencyInjection\bin\Debug\net10.0\Prova_DipendencyInjection.deps.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 17.03\Prova_DipendencyInjection\bin\Debug\net10.0\Prova_DipendencyInjection.runtimeconfig.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 17.03\Prova_DipendencyInjection\bin\Debug\net10.0\Prova_DipendencyInjection.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 17.03\Prova_DipendencyInjection\bin\Debug\net10.0\Prova_DipendencyInjection.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 17.03\Prova_DipendencyInjection\obj\Debug\net10.0\Prova_DipendencyInjection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 17.03\Prova_DipendencyInjection\obj\Debug\net10.0\Prova_DipendencyInjection.AssemblyInfoInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 17.03\Prova_DipendencyInjection\obj\Debug\net10.0\Prova_DipendencyInjection.AssemblyInfo.cs
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 17.03\Prova_DipendencyInjection\obj\Debug\net10.0\Prova_DipendencyInjection.csproj.CoreCompileInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 17.03\Prova_DipendencyInjection\obj\Debug\net10.0\Prova_DipendencyInjection.sourcelink.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 17.03\Prova_DipendencyInjection\obj\Debug\net10.0\Prova_DipendencyInjection.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 17.03\Prova_DipendencyInjection\obj\Debug\net10.0\refint\Prova_DipendencyInjection.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 17.03\Prova_DipendencyInjection\obj\Debug\net10.0\Prova_DipendencyInjection.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 17.03\Prova_DipendencyInjection\obj\Debug\net10.0\Prova_DipendencyInjection.genruntimeconfig.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 17.03\Prova_DipendencyInjection\obj\Debug\net10.0\ref\Prova_DipendencyInjection.dll

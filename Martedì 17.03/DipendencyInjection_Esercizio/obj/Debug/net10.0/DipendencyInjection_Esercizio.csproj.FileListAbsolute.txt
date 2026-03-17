@@ -1,0 +1,15 @@
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 17.03\DipendencyInjection_Esercizio\bin\Debug\net10.0\DipendencyInjection_Esercizio.exe
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 17.03\DipendencyInjection_Esercizio\bin\Debug\net10.0\DipendencyInjection_Esercizio.deps.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 17.03\DipendencyInjection_Esercizio\bin\Debug\net10.0\DipendencyInjection_Esercizio.runtimeconfig.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 17.03\DipendencyInjection_Esercizio\bin\Debug\net10.0\DipendencyInjection_Esercizio.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 17.03\DipendencyInjection_Esercizio\bin\Debug\net10.0\DipendencyInjection_Esercizio.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 17.03\DipendencyInjection_Esercizio\obj\Debug\net10.0\DipendencyInjection_Esercizio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 17.03\DipendencyInjection_Esercizio\obj\Debug\net10.0\DipendencyInjection_Esercizio.AssemblyInfoInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 17.03\DipendencyInjection_Esercizio\obj\Debug\net10.0\DipendencyInjection_Esercizio.AssemblyInfo.cs
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 17.03\DipendencyInjection_Esercizio\obj\Debug\net10.0\DipendencyInjection_Esercizio.csproj.CoreCompileInputs.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 17.03\DipendencyInjection_Esercizio\obj\Debug\net10.0\DipendencyInjection_Esercizio.sourcelink.json
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 17.03\DipendencyInjection_Esercizio\obj\Debug\net10.0\DipendencyInjection_Esercizio.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 17.03\DipendencyInjection_Esercizio\obj\Debug\net10.0\refint\DipendencyInjection_Esercizio.dll
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 17.03\DipendencyInjection_Esercizio\obj\Debug\net10.0\DipendencyInjection_Esercizio.pdb
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 17.03\DipendencyInjection_Esercizio\obj\Debug\net10.0\DipendencyInjection_Esercizio.genruntimeconfig.cache
+C:\Users\rebox\Desktop\Corso_VitoBondanese_2026_CSharp\Martedì 17.03\DipendencyInjection_Esercizio\obj\Debug\net10.0\ref\DipendencyInjection_Esercizio.dll
