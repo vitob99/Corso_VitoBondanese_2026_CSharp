@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Database_EsercizioRubrica")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+74b7fb952c5ae5ad5f5bb9638a4df7d1561e6199")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ff85fc260cab50fdd03fccf76116626200c3e227")]
 [assembly: System.Reflection.AssemblyProductAttribute("Database_EsercizioRubrica")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Database_EsercizioRubrica")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
